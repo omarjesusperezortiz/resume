@@ -1,6 +1,9 @@
 # build output
 dist/
 
+# github actions
+.github/
+
 # generated types
 .astro/
 
