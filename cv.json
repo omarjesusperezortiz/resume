@@ -1,66 +1,61 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
+    "name": "Omar Jesus Perez Ortiz",
     "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
+    "image": "/me.png",
+    "email": "omarjesus.perezortiz@gmail.com",
+    "phone": "+34 663095620",
+    "url": "https://omarperez.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "08027",
+      "city": "Barcelona",
       "countryCode": "ES",
       "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "omapero",
+        "url": "https://www.linkedin.com/in/omapero/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "omarjesusperezortiz",
+        "url": "https://github.com/omarjesusperezortiz"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Reflex Media Group",
+      "position": "FrontEnd Developer & UI/UX Designer",
+      "url": "https://reflexmediagroup.com",
+      "startDate": "2023-01-02",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollo de interfaces de usuario para la creación de contenido multimedia, utilizando tecnologías como nodejs, php, vue, git y figma.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
+      "name": "Empaka.pe",
+      "position": "Web Developer & Designer",
+      "url": "blank",
+      "startDate": "2020-01-01",
       "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Desarrollo, actualización y soporte de la web del ecommerce de packaging utilizando html, css, php, js, wordpress y woocommerce.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
+      "name": "Brand Peru Agency",
+      "position": "Marketing Consultant",
       "startDate": "2011-03-01",
       "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Diseño para sitios web, editorial, packaging, merchandising y ropa. Informes financieros a la gerencia. Seguimiento a los clientes.",
       "highlights": [
         "Started the company"
       ]
@@ -77,30 +72,81 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+  "education": [
+    {
+    "institution": "Universidad Politécnica de Catalunya",
+    "url": "https://www.upc.edu/",
+    "area": "Cloud Computing Architecture",
+    "studyType": "Postgrado",
+    "startDate": "2023-08-01",
+    "endDate": "20024-03-01",
+    "score": "7.9",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Cloud Computing Architecture"
     ]
-  }],
+  },
+  {
+    "institution": "Ironhack Spain",
+    "url": "https://www.ironhack.com/",
+    "area": "Backend Development",
+    "studyType": "Bootcamp",
+    "startDate": "2022-10-01",
+    "endDate": "2022-12-01",
+    "score": "8.0",
+    "courses": [
+      "Web Development"
+    ]
+  },
+  {
+    "institution": "Ironhack Spain",
+    "url": "https://www.ironhack.com/",
+    "area": "Frontend Development",
+    "studyType": "Bootcamp",
+    "startDate": "2022-10-01",
+    "endDate": "2021-12-01",
+    "score": "8.0",
+    "courses": [
+      "Web Development"
+    ]
+  },
+  {
+    "institution": "Univesidad de Lima",
+    "url": "https://www.ulima.edu.pe/",
+    "area": "Administración de Empresas",
+    "startDate": "2010-03-01",
+    "endDate": "2016-05-01",
+    "score": "7.9",
+    "courses": [
+      "Administración de Empresas"
+    ]
+  }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
     "awarder": "Company",
     "summary": "There is no spoon."
   }],
-  "certificates": [{
+  "certificates": [
+    {
     "name": "Certificate",
-    "date": "2021-11-07",
+    "institution": "Company",
+    "area": "Cloud Computing",
+    "startDate": "2021-11-07",
+    "endDate": "2021-11-07",
     "issuer": "Company",
     "url": "https://certificate.com"
-  }],
+  },
+  {
+    "name": "Certificate",
+    "institution": "Company",
+    "area": "Cloud Computing",
+    "startDate": "2021-11-07",
+    "endDate": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }
+  ],
   "publications": [{
     "name": "Publication",
     "publisher": "Company",
@@ -135,13 +181,6 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
@@ -185,6 +224,62 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Framework", "UI"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Avanzado",
+      "keywords": [
+        "Diseño", "Prototipado", "UI", "UX"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "level": "Avanzado",
+      "keywords": [
+        "CMS", "Desarrollo Web", "Backend", "Frontend"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermedio",
+      "keywords": [
+        "Cloud Computing", "Servicios Web", "Infraestructura"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Contenedores", "Desarrollo", "Infraestructura"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Programación"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Intermedio",
+      "keywords": [
+        "Infraestructura", "Cloud Computing", "AWS"
+      ]
     }
   ],
   "languages": [
@@ -194,7 +289,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Fluent"
     }
   ],
   "interests": [{
@@ -261,6 +356,15 @@
       ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
     },
     {
       "name": "miduConf",
