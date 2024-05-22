@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Omar Jesus Perez Ortiz",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Full Stack Developer",
     "image": "/resume/me.png",
     "email": "omarjesus.perezortiz@gmail.com",
     "phone": "+34 663095620",
     "url": "https://omarperez.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Desarrollador de software con amplia experiencia en diversos campos. Vivo en Barcelona, España. Me encanta aprender todo lo relacionado a tecnología. Actualmente trabajo en Reflex Media Group como FrontEnd Developer & UI/UX Designer.",
     "location": {
       "address": "",
       "postalCode": "08027",
@@ -34,7 +34,7 @@
       "url": "https://reflexmediagroup.com",
       "startDate": "2023-01-02",
       "endDate": null,
-      "summary": "Desarrollo de interfaces de usuario para la creación de contenido multimedia, utilizando tecnologías como nodejs, php, vue, git y figma.",
+      "summary": "Desarrollo de interfaces de usuario para la creación de contenido multimedia, utilizando tecnologías como NodeJs, Php, Vue, Git y Figma.",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "url": "blank",
       "startDate": "2020-01-01",
       "endDate": "2022-09-01",
-      "summary": "Desarrollo, actualización y soporte de la web del ecommerce de packaging utilizando html, css, php, js, wordpress y woocommerce.",
+      "summary": "Desarrollo, actualización y soporte de la web del ecommerce de packaging utilizando Html, Css, Php, Js, Wordpress y Woocommerce.",
       "highlights": [
         "Started the company"
       ]
@@ -79,7 +79,7 @@
     "area": "Cloud Computing Architecture",
     "studyType": "Postgrado",
     "startDate": "2023-08-01",
-    "endDate": "20024-03-01",
+    "endDate": "2024-03-01",
     "score": "7.9",
     "courses": [
       "Cloud Computing Architecture"
@@ -130,19 +130,19 @@
   "certificates": [
     {
     "name": "Certificate",
-    "institution": "Company",
-    "area": "Cloud Computing",
-    "startDate": "2021-11-07",
-    "endDate": "2021-11-07",
+    "institution": "PUE Consorci",
+    "area": "DevOps for Administrators",
+    "startDate": "2024-03-01",
+    "endDate": "2024-03-30",
     "issuer": "Company",
     "url": "https://certificate.com"
   },
   {
     "name": "Certificate",
-    "institution": "Company",
-    "area": "Cloud Computing",
-    "startDate": "2021-11-07",
-    "endDate": "2021-11-07",
+    "institution": "PUE Consorci",
+    "area": "Python Fundamentals",
+    "startDate": "2022-11-07",
+    "endDate": "2022-11-30",
     "issuer": "Company",
     "url": "https://certificate.com"
   }
@@ -305,75 +305,35 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "TaskApp-Vercel",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Aplicación de tareas con autenticación y almacenamiento en Vercel",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Vercel & MongoDB",
+        "Node.js & Express",
+        "JavaScript & Vue.js"
       ],
-      "url": "https://mars.codes"
+      "url": "https://to-do-vercel-storage-13k5tu00r-omars-projects-3fe98b00.vercel.app/auth/login"
     },
     {
-      "name": "AdventJS",
+      "name": "Titanic Project",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Dashboard interactivo con datos del Titanic, utilizando React y Nivo",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "JavaScript & React",
+        "Nivo & Material-UI"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://omarjesusperezortiz.github.io/titanic-project/#/dashboard"
     },
     {
-      "name": "Codember",
+      "name": "Circle Project",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Web corporativa para la empresa Circle, se uso animaciones y efectos de diseño",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "HTML & CSS",
+        "JavaScript"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/omarjesusperezortiz/circle-project"
     }
   ]
 }
